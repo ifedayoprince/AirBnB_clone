@@ -17,7 +17,7 @@ section.filters:after {
 }
 
 section.filters {
-  *zoom: 1;
+  zoom: 1;
 }
 
 section.filters button {
